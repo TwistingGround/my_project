@@ -1,1 +1,1 @@
-magic_number = 50
+magic_number = 501
